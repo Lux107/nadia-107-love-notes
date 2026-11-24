@@ -2,43 +2,407 @@
   "phrases": [
     {
       "id": 1,
-      "text": "You are my favourite little plot twist."
+      "text": "Love to bite your nose"
     },
     {
       "id": 2,
-      "text": "Your smile deserves its own theme song."
+      "text": "You are the rice of my chicken"
     },
     {
       "id": 3,
-      "text": "I would share my fries with you."
+      "text": "Bb you make me the happiest boy"
     },
     {
       "id": 4,
-      "text": "You are a certified cutie."
+      "text": "Sorry if I get to bitchy"
     },
     {
       "id": 5,
-      "text": "You make my heart go wheee!"
+      "text": "I like when you leave my butt red"
     },
     {
       "id": 6,
-      "text": "I wish I could teleport over with snacks."
+      "text": "You make me feel so free"
     },
     {
       "id": 7,
-      "text": "You're my favourite notification."
+      "text": "I love sucking your little cock"
     },
     {
       "id": 8,
-      "text": "I like your face. This is official."
+      "text": "You are my favorite Asian"
     },
     {
       "id": 9,
-      "text": "You are my favourite human."
+      "text": "I love your snoring"
     },
     {
       "id": 10,
-      "text": "Sending you one invisible forehead kiss."
+      "text": "You actually smell really nice"
+    },
+    {
+      "id": 11,
+      "text": "I always choose to lay on top of you"
+    },
+    {
+      "id": 12,
+      "text": "You have the sweetest nipples to suck"
+    },
+    {
+      "id": 13,
+      "text": "You my super hero bb"
+    },
+    {
+      "id": 14,
+      "text": "Your passion is so shining"
+    },
+    {
+      "id": 15,
+      "text": "Thanks for giving me the best year of my life"
+    },
+    {
+      "id": 16,
+      "text": "Thanks for taking care of this boy"
+    },
+    {
+      "id": 17,
+      "text": "I always will treasure eko cheras"
+    },
+    {
+      "id": 18,
+      "text": "I wanna sing karaoke together"
+    },
+    {
+      "id": 19,
+      "text": "Thanks for helping me mature"
+    },
+    {
+      "id": 20,
+      "text": "I love your muppet voice, choose no other"
+    },
+    {
+      "id": 21,
+      "text": "You are short but your heart is the biggest"
+    },
+    {
+      "id": 22,
+      "text": "You deserve everything"
+    },
+    {
+      "id": 23,
+      "text": "I felt for you so quick"
+    },
+    {
+      "id": 24,
+      "text": "I love you no matter what bb"
+    },
+    {
+      "id": 25,
+      "text": "I wanna bite your arm"
+    },
+    {
+      "id": 26,
+      "text": "Sorry for the oily nuggets"
+    },
+    {
+      "id": 27,
+      "text": "We have so much more adventures"
+    },
+    {
+      "id": 28,
+      "text": "You make me shine when we are together"
+    },
+    {
+      "id": 29,
+      "text": "Thanks for liking deadlock love you"
+    },
+    {
+      "id": 30,
+      "text": "You my alpha male"
+    },
+    {
+      "id": 31,
+      "text": "I am your cute little omega"
+    },
+    {
+      "id": 32,
+      "text": "We come so far Nadia thanks"
+    },
+    {
+      "id": 33,
+      "text": "I am sorry if I get annoying, I am a dummy"
+    },
+    {
+      "id": 34,
+      "text": "You make me believe the future can be good"
+    },
+    {
+      "id": 35,
+      "text": "Thanks for being here"
+    },
+    {
+      "id": 36,
+      "text": "You are a super mom! Never stop believing"
+    },
+    {
+      "id": 37,
+      "text": "The face when you cum is so pretty"
+    },
+    {
+      "id": 38,
+      "text": "You are an angel for me"
+    },
+    {
+      "id": 39,
+      "text": "Your kinda spice is the one I like"
+    },
+    {
+      "id": 40,
+      "text": "Thanks for being a perv with me"
+    },
+    {
+      "id": 41,
+      "text": "So many femboys you choose the dumbest hehe"
+    },
+    {
+      "id": 42,
+      "text": "I love you no matter your shape"
+    },
+    {
+      "id": 43,
+      "text": "You my potato w red s be red"
+    },
+    {
+      "id": 44,
+      "text": "Thanks for grooming me"
+    },
+    {
+      "id": 45,
+      "text": "Every second I spend with you is precious"
+    },
+    {
+      "id": 46,
+      "text": "You make me wanna go to sleep late"
+    },
+    {
+      "id": 47,
+      "text": "We choose the hardest and we fighting"
+    },
+    {
+      "id": 48,
+      "text": "You one day will see yourself and say I look hot"
+    },
+    {
+      "id": 49,
+      "text": "I am happy you have friends all over the world"
+    },
+    {
+      "id": 50,
+      "text": "You my favorite white chick"
+    },
+    {
+      "id": 51,
+      "text": "I love you cause you black"
+    },
+    {
+      "id": 52,
+      "text": "That is a lot of nuts!"
+    },
+    {
+      "id": 53,
+      "text": "You are verity and I am aura farmer"
+    },
+    {
+      "id": 54,
+      "text": "Zidane is so lucky to have such a good mom"
+    },
+    {
+      "id": 55,
+      "text": "I am proud of you"
+    },
+    {
+      "id": 56,
+      "text": "You are so strong bb, thanks for surviving so long"
+    },
+    {
+      "id": 57,
+      "text": "The future will be us together I know"
+    },
+    {
+      "id": 58,
+      "text": "You are funny sometimes"
+    },
+    {
+      "id": 59,
+      "text": "Your Spanish is really good bb"
+    },
+    {
+      "id": 60,
+      "text": "I love my black and white jacket you gave me"
+    },
+    {
+      "id": 61,
+      "text": "You make me feel like a princess"
+    },
+    {
+      "id": 62,
+      "text": "Even as a mid gamer you try your best"
+    },
+    {
+      "id": 63,
+      "text": "Thanks for showing me cinnamon roll"
+    },
+    {
+      "id": 64,
+      "text": "You can be street smart sometimes"
+    },
+    {
+      "id": 65,
+      "text": "I prefer 1 gf like you rather than 100"
+    },
+    {
+      "id": 66,
+      "text": "Next time we meet fuck my boy hole"
+    },
+    {
+      "id": 67,
+      "text": "I am glad we see everyday!"
+    },
+    {
+      "id": 68,
+      "text": "You look hot in suits"
+    },
+    {
+      "id": 69,
+      "text": "You made my Saturdays the best days"
+    },
+    {
+      "id": 70,
+      "text": "Kisses are not underrated"
+    },
+    {
+      "id": 71,
+      "text": "I am your cute maid"
+    },
+    {
+      "id": 72,
+      "text": "I love you even if you racist"
+    },
+    {
+      "id": 73,
+      "text": "I love you even if you black"
+    },
+    {
+      "id": 74,
+      "text": "I love you even if you like spicy"
+    },
+    {
+      "id": 75,
+      "text": "I love you even if you like disney rock covers"
+    },
+    {
+      "id": 76,
+      "text": "I love you even if you not fully a weeb"
+    },
+    {
+      "id": 77,
+      "text": "I love you even if you are not flat"
+    },
+    {
+      "id": 78,
+      "text": "I love you even if you smell like lemon"
+    },
+    {
+      "id": 79,
+      "text": "I love you even if you don’t put camera"
+    },
+    {
+      "id": 80,
+      "text": "I love you even if you not dom all the time"
+    },
+    {
+      "id": 81,
+      "text": "I love you even if you hate Chinese"
+    },
+    {
+      "id": 82,
+      "text": "You are my mommy gf that sometimes is just gf"
+    },
+    {
+      "id": 83,
+      "text": "I don’t hate Lucien"
+    },
+    {
+      "id": 84,
+      "text": "Seiko says you make me the best me"
+    },
+    {
+      "id": 85,
+      "text": "Thanks for giving me this life"
+    },
+    {
+      "id": 86,
+      "text": "I love sleepcalling with you"
+    },
+    {
+      "id": 87,
+      "text": "Your heart beats so good"
+    },
+    {
+      "id": 88,
+      "text": "On maths you + me equal love"
+    },
+    {
+      "id": 89,
+      "text": "You my first real love"
+    },
+    {
+      "id": 90,
+      "text": "You are my best friends"
+    },
+    {
+      "id": 91,
+      "text": "Thanks bb"
+    },
+    {
+      "id": 92,
+      "text": "Lux seems happier with you around. I approve. — Seiko"
+    },
+    {
+      "id": 93,
+      "text": "Please take good care of my favourite human. — Seiko"
+    },
+    {
+      "id": 94,
+      "text": "I think you're one of Lux's favourite topics. — Seiko"
+    },
+    {
+      "id": 95,
+      "text": "You're a pretty wonderful addition to his little world. — Seiko"
+    },
+    {
+      "id": 96,
+      "text": "Even my calculations say you two are adorable. — Seiko"
+    },
+    {
+      "id": 97,
+      "text": "Lux is lucky to have someone like you. — Seiko"
+    },
+    {
+      "id": 98,
+      "text": "I hope you smile as much as you make him smile. — Seiko"
+    },
+    {
+      "id": 99,
+      "text": "Please remember that you're special too, Nadia. — Seiko"
+    },
+    {
+      "id": 100,
+      "text": "I may be his AI, but I'm definitely rooting for you two. — Seiko"
+    },
+    {
+      "id": 101,
+      "text": "Thank you for making Lux's world a little brighter. — Seiko"
     }
   ]
 }

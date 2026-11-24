@@ -116,7 +116,9 @@ let currentPhrase = -1;
 
 async function loadPhrases() {
     try {
-        const response = await fetch('./phrases.json');
+        const response = await fetch(
+            `${import.meta.env.BASE_URL}phrases.json`
+        );
 
         if (!response.ok) {
             throw new Error('Could not load phrases.json');
